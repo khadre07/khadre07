@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Serigne Abdou Khadre Wade</h1>
+<h1 align="center">Hey 👋, I'm Khadre07</h1>
 <h3 align="center">🚀 Full-Stack Blockchain Engineer | Rust • Go • TypeScript | Solana & Web3 Enthusiast</h3>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 | 🛠️ Project       | 🔍 Description                                                | 🧰 Stack Used                          |
 |------------------|---------------------------------------------------------------|----------------------------------------|
-| 🎨 NFT Market    | Solana-based NFT Marketplace with wallet integration          | React • TypeScript • Golang • Solana |
+| 🎨 NFT Market    | Solana-based NFT Marketplace with wallet integration          | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadre07&hide_progress=true)
 | 📡 GraphQL Engine| High-performance GraphQL API layer for DApps                  | Go • GraphQL • MongoDB                 |
 | 🛒 Commerce API  | Modular REST/GraphQL backend for scalable web stores          | Go • GraphQL • Docker • MongoDB        |
 | 🧰 DApp Toolkit  | Developer utilities for building smart contracts              | Rust • Anchor • Solana • Web3.js       |
